@@ -25,4 +25,4 @@ Task List | - [ ]
 Table | -, |
 
 ## Terminal Screenshot
-![Screenshot] (screenshot.png)
+![Screenshot](screenshot.png)
