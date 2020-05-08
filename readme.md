@@ -23,3 +23,6 @@ Header | #
 List | -
 Task List | - [ ]
 Table | -, |
+
+## Terminal Screenshot
+![Screenshot] (screenshot.png)
